@@ -1076,11 +1076,9 @@ line-height: 16px;
     width: 100%;
 gap: 5px;
 padding-left: 10px;
-border: 1px solid black;
 }
 .first{
 width: 100px;
-border: 1px solid black;
 }
 .first img{
     width: 100px;
@@ -1091,11 +1089,9 @@ font-size: 10px;
 }
 .item{
     width: 53px;
-    border: 1px solid black;
     padding-left: 0;
 }
 .item h1{
-    border: 1px solid black;
 width: 50px;
 font-size: 10px;
 }
@@ -1109,13 +1105,11 @@ font-size: 10px;
 .last{
 width: 50px;
 gap:20px ;
-border: 1px solid black;
 }
 .last h1{
 width: 50px;
 font-size: 11px;
 line-height: 21px;
-border: 1px solid black;
 }
 .last p{
 width: 50px;
